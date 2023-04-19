@@ -1,0 +1,17 @@
+{
+  "name": "imagem-resizer-electron",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "App to resize dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Caian Egidio",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^24.1.2",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
